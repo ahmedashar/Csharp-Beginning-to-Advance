@@ -1,0 +1,16 @@
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\Access-Specifier1.csproj.AssemblyReference.cache
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\Access-Specifier1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\Access-Specifier1.AssemblyInfoInputs.cache
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\Access-Specifier1.AssemblyInfo.cs
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\Access-Specifier1.csproj.CoreCompileInputs.cache
+Z:\New folder\ObjectOriented\Access-Specifier1\bin\Debug\net5.0\Access-Specifier1.exe
+Z:\New folder\ObjectOriented\Access-Specifier1\bin\Debug\net5.0\Access-Specifier1.deps.json
+Z:\New folder\ObjectOriented\Access-Specifier1\bin\Debug\net5.0\Access-Specifier1.runtimeconfig.json
+Z:\New folder\ObjectOriented\Access-Specifier1\bin\Debug\net5.0\Access-Specifier1.runtimeconfig.dev.json
+Z:\New folder\ObjectOriented\Access-Specifier1\bin\Debug\net5.0\Access-Specifier1.dll
+Z:\New folder\ObjectOriented\Access-Specifier1\bin\Debug\net5.0\ref\Access-Specifier1.dll
+Z:\New folder\ObjectOriented\Access-Specifier1\bin\Debug\net5.0\Access-Specifier1.pdb
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\Access-Specifier1.dll
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\ref\Access-Specifier1.dll
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\Access-Specifier1.pdb
+Z:\New folder\ObjectOriented\Access-Specifier1\obj\Debug\net5.0\Access-Specifier1.genruntimeconfig.cache

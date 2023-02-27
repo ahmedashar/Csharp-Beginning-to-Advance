@@ -1,0 +1,16 @@
+C:\Users\ashar\source\repos\Session05\Session05\bin\Debug\net5.0\Session05.exe
+C:\Users\ashar\source\repos\Session05\Session05\bin\Debug\net5.0\Session05.deps.json
+C:\Users\ashar\source\repos\Session05\Session05\bin\Debug\net5.0\Session05.runtimeconfig.json
+C:\Users\ashar\source\repos\Session05\Session05\bin\Debug\net5.0\Session05.runtimeconfig.dev.json
+C:\Users\ashar\source\repos\Session05\Session05\bin\Debug\net5.0\Session05.dll
+C:\Users\ashar\source\repos\Session05\Session05\bin\Debug\net5.0\ref\Session05.dll
+C:\Users\ashar\source\repos\Session05\Session05\bin\Debug\net5.0\Session05.pdb
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\Session05.csproj.AssemblyReference.cache
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\Session05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\Session05.AssemblyInfoInputs.cache
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\Session05.AssemblyInfo.cs
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\Session05.csproj.CoreCompileInputs.cache
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\Session05.dll
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\ref\Session05.dll
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\Session05.pdb
+C:\Users\ashar\source\repos\Session05\Session05\obj\Debug\net5.0\Session05.genruntimeconfig.cache

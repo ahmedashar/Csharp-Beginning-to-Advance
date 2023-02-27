@@ -1,0 +1,16 @@
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\bin\Debug\net5.0\ObjectOriented.exe
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\bin\Debug\net5.0\ObjectOriented.deps.json
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\bin\Debug\net5.0\ObjectOriented.runtimeconfig.json
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\bin\Debug\net5.0\ObjectOriented.runtimeconfig.dev.json
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\bin\Debug\net5.0\ObjectOriented.dll
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\bin\Debug\net5.0\ref\ObjectOriented.dll
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\bin\Debug\net5.0\ObjectOriented.pdb
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ObjectOriented.csproj.AssemblyReference.cache
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ObjectOriented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ObjectOriented.AssemblyInfoInputs.cache
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ObjectOriented.AssemblyInfo.cs
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ObjectOriented.csproj.CoreCompileInputs.cache
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ObjectOriented.dll
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ref\ObjectOriented.dll
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ObjectOriented.pdb
+C:\Users\ashar\source\repos\ObjectOriented\ObjectOriented\obj\Debug\net5.0\ObjectOriented.genruntimeconfig.cache
