@@ -1,0 +1,16 @@
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+Z:\C#-Beg-to_Adv\ObjectOriented\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache

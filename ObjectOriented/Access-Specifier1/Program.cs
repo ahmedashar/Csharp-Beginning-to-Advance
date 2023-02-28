@@ -36,4 +36,13 @@ namespace Access_Specifier1
 // | Applicable to Application | Current Class | Derived Class | Outside the namespace/assembly | Outsite the namespace but in derived class
 //1) public:
 //  |          yes             |      yes      |      yes      |              yes               |     yes
-//  
+//2) private
+//  |          NO              |      yes      |      NO       |              NO                |     NO
+//3) protected
+//  |          NO              |      yes      |      yes      |              NO                |     yes
+
+
+
+// mew Keyword
+// This allow you to redefine the inherited methods or variable in the derived class.
+//  redefining the base class memebers in the derived class result in base class members being hidden.

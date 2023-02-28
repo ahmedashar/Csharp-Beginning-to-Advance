@@ -21,3 +21,26 @@ Z:\New folder\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier
 Z:\New folder\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier1.dll
 Z:\New folder\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier1.pdb
 Z:\New folder\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.csproj.CopyComplete
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.csproj.AssemblyReference.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.AssemblyInfoInputs.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.AssemblyInfo.cs
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.csproj.CoreCompileInputs.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\ref\Access-Specifier2.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.pdb
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier1.deps.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier1.runtimeconfig.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier1.runtimeconfig.dev.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier1.exe
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier2.exe
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier2.deps.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier2.runtimeconfig.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier2.runtimeconfig.dev.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier2.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\ref\Access-Specifier2.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier2.pdb
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier1.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\bin\Debug\net5.0\Access-Specifier1.pdb
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.csproj.CopyComplete
+Z:\C#-Beg-to_Adv\ObjectOriented\Access-Specifier2\obj\Debug\net5.0\Access-Specifier2.genruntimeconfig.cache

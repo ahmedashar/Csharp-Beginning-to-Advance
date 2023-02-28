@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOriented", "ObjectOri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{80608B5B-571C-4D97-86B9-42A1B88D546C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access-Specifier1", "Access-Specifier1\Access-Specifier1.csproj", "{03144EE2-D056-4FE2-9487-BB7F28A3B070}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Access-Specifier1", "Access-Specifier1\Access-Specifier1.csproj", "{03144EE2-D056-4FE2-9487-BB7F28A3B070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access-Specifier2", "Access-Specifier2\Access-Specifier2.csproj", "{08EFB88C-883A-49DC-BC65-3C03945CA3D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Access-Specifier2", "Access-Specifier2\Access-Specifier2.csproj", "{08EFB88C-883A-49DC-BC65-3C03945CA3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{BB691F26-8F51-4630-83E7-87DD6D46B7D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{08EFB88C-883A-49DC-BC65-3C03945CA3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08EFB88C-883A-49DC-BC65-3C03945CA3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08EFB88C-883A-49DC-BC65-3C03945CA3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB691F26-8F51-4630-83E7-87DD6D46B7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB691F26-8F51-4630-83E7-87DD6D46B7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB691F26-8F51-4630-83E7-87DD6D46B7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB691F26-8F51-4630-83E7-87DD6D46B7D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

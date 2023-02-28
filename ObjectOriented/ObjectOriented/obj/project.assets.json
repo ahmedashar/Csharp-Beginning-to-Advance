@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\New folder\\ObjectOriented\\ObjectOriented\\ObjectOriented.csproj",
+      "projectUniqueName": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\ObjectOriented\\ObjectOriented.csproj",
       "projectName": "ObjectOriented",
-      "projectPath": "Z:\\New folder\\ObjectOriented\\ObjectOriented\\ObjectOriented.csproj",
+      "projectPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\ObjectOriented\\ObjectOriented.csproj",
       "packagesPath": "C:\\Users\\ashar\\.nuget\\packages\\",
-      "outputPath": "Z:\\New folder\\ObjectOriented\\ObjectOriented\\obj\\",
+      "outputPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\ObjectOriented\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

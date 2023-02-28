@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\New folder\\ObjectOriented\\Access-Specifier2\\Access-Specifier2.csproj": {}
+    "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier2\\Access-Specifier2.csproj": {}
   },
   "projects": {
-    "Z:\\New folder\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj": {
+    "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\New folder\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj",
+        "projectUniqueName": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj",
         "projectName": "Access-Specifier1",
-        "projectPath": "Z:\\New folder\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj",
+        "projectPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj",
         "packagesPath": "C:\\Users\\ashar\\.nuget\\packages\\",
-        "outputPath": "Z:\\New folder\\ObjectOriented\\Access-Specifier1\\obj\\",
+        "outputPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "Z:\\New folder\\ObjectOriented\\Access-Specifier2\\Access-Specifier2.csproj": {
+    "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier2\\Access-Specifier2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\New folder\\ObjectOriented\\Access-Specifier2\\Access-Specifier2.csproj",
+        "projectUniqueName": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier2\\Access-Specifier2.csproj",
         "projectName": "Access-Specifier2",
-        "projectPath": "Z:\\New folder\\ObjectOriented\\Access-Specifier2\\Access-Specifier2.csproj",
+        "projectPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier2\\Access-Specifier2.csproj",
         "packagesPath": "C:\\Users\\ashar\\.nuget\\packages\\",
-        "outputPath": "Z:\\New folder\\ObjectOriented\\Access-Specifier2\\obj\\",
+        "outputPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "Z:\\New folder\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj": {
-                "projectPath": "Z:\\New folder\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj"
+              "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj": {
+                "projectPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Access-Specifier1\\Access-Specifier1.csproj"
               }
             }
           }

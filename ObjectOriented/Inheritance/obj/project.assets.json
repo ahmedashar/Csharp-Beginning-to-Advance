@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\New folder\\ObjectOriented\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "Z:\\New folder\\ObjectOriented\\Inheritance\\Inheritance.csproj",
+      "projectPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\ashar\\.nuget\\packages\\",
-      "outputPath": "Z:\\New folder\\ObjectOriented\\Inheritance\\obj\\",
+      "outputPath": "Z:\\C#-Beg-to_Adv\\ObjectOriented\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
