@@ -4,8 +4,16 @@ namespace Abstraction
 {
     class Program
     {
+       
         static void Main(string[] args)
         {
+            int get()
+            {
+
+                return 2;
+            }
+            Console.WriteLine(get());
+
             Console.WriteLine("Hello World!");
         }
     }

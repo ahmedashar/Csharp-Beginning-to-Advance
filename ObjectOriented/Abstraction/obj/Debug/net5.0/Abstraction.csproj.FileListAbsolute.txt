@@ -1,0 +1,16 @@
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\bin\Debug\net5.0\Abstraction.exe
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\bin\Debug\net5.0\Abstraction.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\Abstraction.csproj.AssemblyReference.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\Abstraction.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+Z:\C#-Beg-to_Adv\ObjectOriented\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache
