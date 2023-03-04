@@ -1,0 +1,16 @@
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\bin\Debug\net5.0\practice.exe
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\bin\Debug\net5.0\practice.deps.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\bin\Debug\net5.0\practice.runtimeconfig.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\bin\Debug\net5.0\practice.runtimeconfig.dev.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\bin\Debug\net5.0\practice.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\bin\Debug\net5.0\ref\practice.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\bin\Debug\net5.0\practice.pdb
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\practice.csproj.AssemblyReference.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\practice.AssemblyInfoInputs.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\practice.AssemblyInfo.cs
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\practice.csproj.CoreCompileInputs.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\practice.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\ref\practice.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\practice.pdb
+Z:\C#-Beg-to_Adv\ConsoleApp1\practice\obj\Debug\net5.0\practice.genruntimeconfig.cache

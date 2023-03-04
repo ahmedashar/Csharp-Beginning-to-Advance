@@ -1,20 +1,7 @@
-﻿
-    /*
-     * 
-     * 
-     * fgfdg
-     * dfgdfg
-     */
-    /// <summary>
-    /// asdasdsdfsdfdsfdfsdfsdf
-    /// </summary>
-    // asdfsfsdf
-  
-            using System;
-
+﻿using System;
 namespace consoleApp
     {
-        class Program
+      class Program
         {
             static void Main(string[] args)
             {
@@ -28,7 +15,7 @@ namespace consoleApp
                 Console.WriteLine("byte value: " + Snum);
                 Console.WriteLine("sbyte value: " + USnum);
 
-
+                
                 float result1 = 10 / 3f;
                 Console.WriteLine("float value: " + result1);
 
@@ -46,7 +33,7 @@ namespace consoleApp
 
                 //const int z = 500;
 
-                int stName = Console.Read();
+                char stName = Convert.ToChar( Console.Read());
                 Console.WriteLine("value: " + stName);
 
                 float zzz = 1.44f;
@@ -118,7 +105,25 @@ namespace consoleApp
                         Console.WriteLine("Looking forward to the Weekend.");
                         break;
                 }
-                // Outputs "Looking forward to the Weekend."
+            // Outputs "Looking forward to the Weekend."
+
+            string days = "Monday";
+
+            switch (days)
+            {
+                case "Monday":
+                    Console.WriteLine("Day one");
+                    break;
+                case "Tuesday":
+                    Console.WriteLine("Day two");
+                    break;
+                case "Wednesday":
+                    Console.WriteLine("Day three");
+                    break;
+                default:
+                    Console.WriteLine("Others");
+                    break;
+            }
 
             }
         }

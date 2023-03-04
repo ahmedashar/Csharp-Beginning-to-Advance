@@ -1,0 +1,14 @@
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Basics.exe
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Basics.deps.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Basics.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Basics.pdb
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Basics.csproj.AssemblyReference.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Basics.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Basics.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Basics.pdb
+Z:\C#-Beg-to_Adv\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache

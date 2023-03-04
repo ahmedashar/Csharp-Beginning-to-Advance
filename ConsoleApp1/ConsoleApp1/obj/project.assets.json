@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\C#-Beg-to_Adv\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "Z:\\C#-Beg-to_Adv\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "Z:\\C#-Beg-to_Adv\\ConsoleApp1\\ConsoleApp1\\Basics.csproj",
+      "projectName": "Basics",
+      "projectPath": "Z:\\C#-Beg-to_Adv\\ConsoleApp1\\ConsoleApp1\\Basics.csproj",
       "packagesPath": "C:\\Users\\ashar\\.nuget\\packages\\",
       "outputPath": "Z:\\C#-Beg-to_Adv\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
