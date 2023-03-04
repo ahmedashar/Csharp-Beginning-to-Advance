@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\typeConversion"
   ],
-  "SelectedNode": "\\ConsoleApp1.sln",
+  "SelectedNode": "\\typeConversion\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

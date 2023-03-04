@@ -41,31 +41,7 @@ namespace consoleApp
                 Console.WriteLine(int.MinValue + " ," + int.MaxValue);
 
 
-                // types conversion 
-                // implicit type conversion and explicit type conversion.
-
-                byte d = 12;
-                int e = d;
-                Console.WriteLine(e);
-
-                // explicit 
-                int f = 300;
-                byte g = (byte)f; //explicitly converted (unexpted value, data will lost)
-                Console.WriteLine(g);
-
-                try
-                {
-                    // Non compatible types
-                    string nameC = "1222";
-                    //int numberC = (int) nameC; 
-                    byte numC = Convert.ToByte(nameC);
-                    Console.WriteLine(numC);
-
-                }
-                catch (Exception)
-                {
-                    Console.WriteLine("bytes maximum range 255");
-                }
+             
 
                 bool active = true;
                 if (active)

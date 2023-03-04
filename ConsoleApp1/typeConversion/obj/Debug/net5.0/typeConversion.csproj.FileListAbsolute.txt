@@ -1,0 +1,16 @@
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\bin\Debug\net5.0\typeConversion.exe
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\bin\Debug\net5.0\typeConversion.deps.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\bin\Debug\net5.0\typeConversion.runtimeconfig.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\bin\Debug\net5.0\typeConversion.runtimeconfig.dev.json
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\bin\Debug\net5.0\typeConversion.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\bin\Debug\net5.0\ref\typeConversion.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\bin\Debug\net5.0\typeConversion.pdb
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\typeConversion.csproj.AssemblyReference.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\typeConversion.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\typeConversion.AssemblyInfoInputs.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\typeConversion.AssemblyInfo.cs
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\typeConversion.csproj.CoreCompileInputs.cache
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\typeConversion.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\ref\typeConversion.dll
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\typeConversion.pdb
+Z:\C#-Beg-to_Adv\ConsoleApp1\typeConversion\obj\Debug\net5.0\typeConversion.genruntimeconfig.cache
